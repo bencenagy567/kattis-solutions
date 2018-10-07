@@ -1,1 +1,1 @@
-# kattis-solutions
+# Kattis Solutions
